@@ -1,0 +1,20 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+	int arr[50],i;
+	cout<<"Enter elements:";
+	for(int i=1;i<=5;i++)
+	{
+		cin>>arr[i];
+}
+		cout<<"You entered:";
+		
+		for(int i=1;i<5;i++);
+{
+
+		cout<<"\n""a[i]";
+}
+		return 0;
+	}
+
